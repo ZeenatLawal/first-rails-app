@@ -1,24 +1,22 @@
-# README
+# First rails app
+> Created my first rails app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Built With
 
-Things you may want to cover:
+- Ruby On Rails
 
-* Ruby version
+## Author
 
-* System dependencies
+👤 **Zeenat Lawal**
 
-* Configuration
+- GitHub: [@ZeenatLawal](https://github.com/ZeenatLawal)
+- Twitter: [@lawal_zeenat](https://twitter.com/lawal_zeenat)
+- LinkedIn: [Zeenat Lawal](https://www.linkedin.com/in/zeenatlawal/)
 
-* Database creation
+## 🤝 Contributing
 
-* Database initialization
+Contributions, issues, and feature requests are welcome!
 
-* How to run the test suite
+## Show your support
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Give a ⭐️ if you like this project!
