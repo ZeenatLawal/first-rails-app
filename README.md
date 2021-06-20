@@ -1,5 +1,5 @@
 # First rails app
-> Created my first rails app
+> Created my first rails app, ran the installation and deployed with heroku.
 
 ## Built With
 
